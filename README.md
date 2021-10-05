@@ -1,4 +1,4 @@
-# handwritten_reader
+# handwritten_digit_reader
 Introduction
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The scope of this project is to develop an algorithm that will successfully generate a barcode and search images in a given dataset.  The algorithm should be designed for a large dataset such as the given MNIST dataset, which contains 100 handwritten digits (originally 70,000).  Ideally, the purpose of this program is to find the closest image that is part of its class, excluding the image that is being searched.  Our goal is to construct a quick and reliable content-based image retrieval algorithm that can outperform the Radon based method.
